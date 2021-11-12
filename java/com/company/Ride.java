@@ -1,6 +1,5 @@
 package com.company;
 
-
 public class Ride {
     public final double distance;
     public final int time;
